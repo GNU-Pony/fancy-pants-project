@@ -13,3 +13,7 @@ resource files; and configuration files (or script to set up configurations).
 You submission directory should be places in a directory named as
 the desktop environment used in the submission.
 
+It is preferable if images are in vector graphics, or in very high
+resolution if in raster. Please provide the source files, such as
+for example .xfc and .svg files.
+
