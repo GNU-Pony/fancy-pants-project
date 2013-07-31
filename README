@@ -1,0 +1,15 @@
+Please request pulls with your fancy pony themed desktops.
+So that everypony can get inspiration, get cool themes and
+perhaps be included in the GNU/Pony project.
+
+But your submission in a uniquely named descriptive directory,
+and provide a README.md that displays a previews.
+
+Submissions must include dependencies (do not forget to tell
+which distribution you are using), sources for dependencies
+if not included in the distribution's offical package positiories;
+resource files; and configuration files (or script to set up configurations).
+
+You submission directory should be places in a directory named as
+the desktop environment used in the submission.
+
